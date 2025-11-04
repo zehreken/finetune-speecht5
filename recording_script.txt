@@ -1,0 +1,214 @@
+# Voice Recording Script
+# Generated on: 2025-10-30 22:19:20
+# Total sentences: 200
+#
+# Instructions:
+# - Find a quiet room
+# - Use a good microphone
+# - Speak naturally in your normal voice
+# - Take breaks every 20-30 sentences
+# - Record each sentence as audio_001.wav, audio_002.wav, etc.
+#
+# Format below: audio_XXX.wav|sentence text
+#======================================================================
+
+audio_001.wav|I'm really excited about this opportunity!
+audio_002.wav|The deadline is December thirty-first at midnight.
+audio_003.wav|That works.
+audio_004.wav|That's hilarious! I can't stop laughing!
+audio_005.wav|That's absolutely amazing! I can't believe it!
+audio_006.wav|The total comes to one hundred and forty-seven dollars and fifty cents.
+audio_007.wav|I'd rather have coffee than tea, if that's alright.
+audio_008.wav|This is incredibly frustrating.
+audio_009.wav|Not at all.
+audio_010.wav|That works.
+audio_011.wav|Sounds good.
+audio_012.wav|Let's review the specifications one more time.
+audio_013.wav|The five boxing wizards jump quickly.
+audio_014.wav|Pack my box with five dozen liquor jugs.
+audio_015.wav|Sphinx of black quartz, judge my vow.
+audio_016.wav|I see what you're saying.
+audio_017.wav|The five boxing wizards jump quickly.
+audio_018.wav|Fair enough.
+audio_019.wav|This is incredibly frustrating.
+audio_020.wav|Good point.
+audio_021.wav|My passport number is A one two three four five six seven eight nine.
+audio_022.wav|What do you think about this?
+audio_023.wav|Please call me at five five five, one two three four.
+audio_024.wav|We're going to visit the castle this weekend.
+audio_025.wav|When will you be available?
+audio_026.wav|Who was responsible for this decision?
+audio_027.wav|What time does the meeting start?
+audio_028.wav|I'm disappointed with the outcome.
+audio_029.wav|Wait! Don't forget your jacket!
+audio_030.wav|I'll get back to you as soon as possible.
+audio_031.wav|Mr. Jock, TV quiz PhD, bags few lynx.
+audio_032.wav|Fair enough.
+audio_033.wav|We should schedule a meeting to discuss the requirements.
+audio_034.wav|Not at all.
+audio_035.wav|Hello, how are you doing today?
+audio_036.wav|Pack my box with five dozen liquor jugs.
+audio_037.wav|I suppose so.
+audio_038.wav|How vexingly quick daft zebras jump.
+audio_039.wav|Not really.
+audio_040.wav|Hello, how are you doing today?
+audio_041.wav|The quick brown fox jumps over the lazy dog.
+audio_042.wav|When will you be available?
+audio_043.wav|Could you please repeat that?
+audio_044.wav|Absolutely.
+audio_045.wav|According to recent research, the results are promising.
+audio_046.wav|Well, let me see... I think that could work.
+audio_047.wav|Mr. Jock, TV quiz PhD, bags few lynx.
+audio_048.wav|Could you please repeat that?
+audio_049.wav|The five boxing wizards jump quickly.
+audio_050.wav|Which option do you prefer?
+audio_051.wav|How vexingly quick daft zebras jump.
+audio_052.wav|The system architecture consists of multiple microservices.
+audio_053.wav|Sure thing!
+audio_054.wav|The conference will be held next month in Stockholm, and we're expecting participants from all over Europe to attend and share their latest research findings.
+audio_055.wav|We need to analyze the data before making any conclusions.
+audio_056.wav|Could this be improved somehow?
+audio_057.wav|Thank you so much for your help.
+audio_058.wav|That's right.
+audio_059.wav|The system architecture consists of multiple microservices.
+audio_060.wav|The options are: first, we could wait; second, we could proceed; or third, we could cancel.
+audio_061.wav|However, there's one thing I should mention first.
+audio_062.wav|I completely agree with you.
+audio_063.wav|The options are: first, we could wait; second, we could proceed; or third, we could cancel.
+audio_064.wav|What time does the meeting start?
+audio_065.wav|The implementation follows industry best practices.
+audio_066.wav|We need to analyze the data before making any conclusions.
+audio_067.wav|Sounds good.
+audio_068.wav|Absolutely.
+audio_069.wav|That sounds like a great idea!
+audio_070.wav|That makes me feel a bit uncomfortable.
+audio_071.wav|I'm not sure I understand what you mean.
+audio_072.wav|I'm disappointed with the outcome.
+audio_073.wav|Of course.
+audio_074.wav|If you're interested in learning more about this topic, I would recommend starting with the introductory materials and then gradually working your way up to the more advanced concepts.
+audio_075.wav|I'm really excited about this opportunity!
+audio_076.wav|Jackdaws love my big sphinx of quartz.
+audio_077.wav|That's right.
+audio_078.wav|The meeting is scheduled for March fifteenth at three thirty PM.
+audio_079.wav|The ingredients include: flour, sugar, eggs, and butter.
+audio_080.wav|The configuration file needs to be updated regularly.
+audio_081.wav|I've been thinking about this problem for a while now, and I believe the best solution would be to break it down into smaller, more manageable tasks that we can tackle one at a time.
+audio_082.wav|What do you think about this?
+audio_083.wav|Sure thing!
+audio_084.wav|The deadline is December thirty-first at midnight.
+audio_085.wav|She said - and I quote - 'This is unacceptable.'
+audio_086.wav|Sphinx of black quartz, judge my vow.
+audio_087.wav|Maybe later.
+audio_088.wav|Please refer to the documentation for detailed instructions.
+audio_089.wav|Let's review the specifications one more time.
+audio_090.wav|That makes me feel a bit uncomfortable.
+audio_091.wav|Yes, exactly.
+audio_092.wav|When I was younger, I used to spend hours reading books in the library, completely losing track of time and immersing myself in different worlds and stories.
+audio_093.wav|The total comes to one hundred and forty-seven dollars and fifty cents.
+audio_094.wav|Not at all.
+audio_095.wav|I really appreciate your time.
+audio_096.wav|She said - and I quote - 'This is unacceptable.'
+audio_097.wav|I see what you're saying.
+audio_098.wav|Sphinx of black quartz, judge my vow.
+audio_099.wav|I don't think so.
+audio_100.wav|I'll get back to you as soon as possible.
+audio_101.wav|Despite the challenges we've faced this year, I'm optimistic that we can overcome them through teamwork, dedication, and innovative thinking.
+audio_102.wav|Where did you put my keys?
+audio_103.wav|Good point.
+audio_104.wav|I thought about it thoroughly before making a decision.
+audio_105.wav|The weather is beautiful today.
+audio_106.wav|Can you help me with something?
+audio_107.wav|Really? You're saying that's what happened?
+audio_108.wav|I'm genuinely happy for you!
+audio_109.wav|I completely agree with you.
+audio_110.wav|That's hilarious! I can't stop laughing!
+audio_111.wav|Are you sure about that?
+audio_112.wav|I suppose so.
+audio_113.wav|If you're interested in learning more about this topic, I would recommend starting with the introductory materials and then gradually working your way up to the more advanced concepts.
+audio_114.wav|The conference will be held next month in Stockholm, and we're expecting participants from all over Europe to attend and share their latest research findings.
+audio_115.wav|I need to schedule an appointment for next Thursday.
+audio_116.wav|The address is twelve thirty-four Main Street, apartment five B.
+audio_117.wav|Which option do you prefer?
+audio_118.wav|Jackdaws love my big sphinx of quartz.
+audio_119.wav|According to recent research, the results are promising.
+audio_120.wav|How does this work exactly?
+audio_121.wav|That's right.
+audio_122.wav|Not really.
+audio_123.wav|We need approximately two thousand five hundred units.
+audio_124.wav|Yes, exactly.
+audio_125.wav|Let me think about that for a moment.
+audio_126.wav|In other words, we need to act quickly.
+audio_127.wav|The quick brown fox jumps over the lazy dog.
+audio_128.wav|I'm so sorry to hear about that.
+audio_129.wav|I'm genuinely happy for you!
+audio_130.wav|I've been thinking about this problem for a while now, and I believe the best solution would be to break it down into smaller, more manageable tasks that we can tackle one at a time.
+audio_131.wav|Have a wonderful day!
+audio_132.wav|I'm particularly interested in this opportunity.
+audio_133.wav|Could this be improved somehow?
+audio_134.wav|How vexingly quick daft zebras jump.
+audio_135.wav|The weather is beautiful today.
+audio_136.wav|The address is twelve thirty-four Main Street, apartment five B.
+audio_137.wav|What a pleasant surprise!
+audio_138.wav|When I was younger, I used to spend hours reading books in the library, completely losing track of time and immersing myself in different worlds and stories.
+audio_139.wav|Have a wonderful day!
+audio_140.wav|Please call me at five five five, one two three four.
+audio_141.wav|That works.
+audio_142.wav|This situation is quite concerning.
+audio_143.wav|I was born on the twenty-third of August, nineteen ninety-five.
+audio_144.wav|However, there's one thing I should mention first.
+audio_145.wav|The project deadline is next Friday afternoon.
+audio_146.wav|Waltz, bad nymph, for quick jigs vex.
+audio_147.wav|That sounds like a great idea!
+audio_148.wav|I don't think so.
+audio_149.wav|I thought about it thoroughly before making a decision.
+audio_150.wav|Can you help me with something?
+audio_151.wav|In other words, we need to act quickly.
+audio_152.wav|The algorithm optimizes performance through parallel processing.
+audio_153.wav|Maybe later.
+audio_154.wav|Pack my box with five dozen liquor jugs.
+audio_155.wav|The organization is headquartered in the city center.
+audio_156.wav|The configuration file needs to be updated regularly.
+audio_157.wav|Why is this happening?
+audio_158.wav|Please refer to the documentation for detailed instructions.
+audio_159.wav|Absolutely.
+audio_160.wav|Maybe later.
+audio_161.wav|Who was responsible for this decision?
+audio_162.wav|That's absolutely amazing! I can't believe it!
+audio_163.wav|Mr. Jock, TV quiz PhD, bags few lynx.
+audio_164.wav|How does this work exactly?
+audio_165.wav|Well, let me see... I think that could work.
+audio_166.wav|No problem.
+audio_167.wav|Let me think about that for a moment.
+audio_168.wav|I don't think so.
+audio_169.wav|What a pleasant surprise!
+audio_170.wav|The water bottle is on the table next to the computer.
+audio_171.wav|Why is this happening?
+audio_172.wav|I'm not sure I understand what you mean.
+audio_173.wav|Would you like some coffee or tea?
+audio_174.wav|The implementation follows industry best practices.
+audio_175.wav|That's interesting, tell me more.
+audio_176.wav|My passport number is A one two three four five six seven eight nine.
+audio_177.wav|I suppose so.
+audio_178.wav|Wait! Don't forget your jacket!
+audio_179.wav|Good point.
+audio_180.wav|Really? You're saying that's what happened?
+audio_181.wav|No problem.
+audio_182.wav|I really appreciate your time.
+audio_183.wav|The ingredients include: flour, sugar, eggs, and butter.
+audio_184.wav|Waltz, bad nymph, for quick jigs vex.
+audio_185.wav|We're going to visit the castle this weekend.
+audio_186.wav|Yes, exactly.
+audio_187.wav|The algorithm optimizes performance through parallel processing.
+audio_188.wav|I'd rather have coffee than tea, if that's alright.
+audio_189.wav|Jackdaws love my big sphinx of quartz.
+audio_190.wav|I need to schedule an appointment for next Thursday.
+audio_191.wav|I was born on the twenty-third of August, nineteen ninety-five.
+audio_192.wav|I'm so sorry to hear about that.
+audio_193.wav|Sure thing!
+audio_194.wav|The quick brown fox jumps over the lazy dog.
+audio_195.wav|Fair enough.
+audio_196.wav|Despite the challenges we've faced this year, I'm optimistic that we can overcome them through teamwork, dedication, and innovative thinking.
+audio_197.wav|The organization is headquartered in the city center.
+audio_198.wav|Waltz, bad nymph, for quick jigs vex.
+audio_199.wav|We need approximately two thousand five hundred units.
+audio_200.wav|Thank you so much for your help.
