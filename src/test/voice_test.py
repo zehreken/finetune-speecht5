@@ -1,3 +1,7 @@
+"""
+This is to test speecht5 text to speech model
+It runs on the GPU, low quality but quite fast
+"""
 from transformers import SpeechT5Processor, SpeechT5ForTextToSpeech, SpeechT5HifiGan
 import torch
 import soundfile as sf
@@ -27,5 +31,5 @@ speech = model.generate_speech(
 )
 
 # Save
-sf.write("output.wav", speech.cpu().numpy(), samplerate=16000)
+sf.write("output/voice_test.wav", speech.cpu().numpy(), samplerate=16000)
 print("Audio saved to output.wav")

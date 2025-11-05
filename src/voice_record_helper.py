@@ -1,7 +1,6 @@
 """
 Voice Recording Dataset Generator
 Creates metadata file with diverse sentences optimized for voice cloning.
-Then helps you record them systematically.
 """
 
 import os
