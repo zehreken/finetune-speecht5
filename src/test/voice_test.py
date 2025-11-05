@@ -2,6 +2,7 @@
 This is to test speecht5 text to speech model
 It runs on the GPU, low quality but quite fast
 """
+
 from transformers import SpeechT5Processor, SpeechT5ForTextToSpeech, SpeechT5HifiGan
 import torch
 import soundfile as sf

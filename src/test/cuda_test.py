@@ -12,6 +12,7 @@ As an AI System Engineer at Fatshark, I...
 
 (3) has been awarded the "Fats
 """
+
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 

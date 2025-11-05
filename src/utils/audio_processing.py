@@ -1,6 +1,6 @@
 """
 Audio Preprocessing for Voice Cloning
-Automatically cleans up your recordings for optimal training.
+Automatically cleans up recordings for optimal training.
 """
 
 import os

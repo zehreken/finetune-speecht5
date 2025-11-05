@@ -41,7 +41,7 @@ with torch.no_grad():
     )
 
 speech_numpy = speech.cpu().numpy()
-sf.write("test_base_model.wav", speech_numpy, samplerate=16000)
+sf.write("output/test_base_model.wav", speech_numpy, samplerate=16000)
 
 print("✓ Saved to: test_base_model.wav")
 print("\nListen to this file. If it sounds like normal speech,")

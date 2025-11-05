@@ -1,6 +1,6 @@
 """
 Interactive Recording Helper
-Run this while recording to see each sentence one at a time.
+Run this while recording to see each sentence one at a time
 """
 
 import os
@@ -50,7 +50,7 @@ def display_recording_prompts(script_file="recording_script.txt"):
             input("Press ENTER for next sentence...")
     
     print(f"\n{'='*80}")
-    print("🎉 ALL DONE! You've completed all recordings!")
+    print("All done")
     print(f"{'='*80}")
     print(f"\nTotal recordings: {len(sentences)}")
     print("\nNext steps:")
